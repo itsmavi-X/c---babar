@@ -28,3 +28,5 @@ int main(){
     return 0;
 
 }
+
+//for optimisation we can do only one thing is that. We can change the formula as mid= start + (end-start)/2  //
