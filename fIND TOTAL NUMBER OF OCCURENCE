@@ -1,0 +1,12 @@
+We can find the total number of occurence of a digit in an array using two methods one is linear search for the worst case and the other is binary search for the best case which will have the time complexity 
+as logn . 
+
+suppose we have an arr[7] {1,2,3,3,3,3,4};
+to find the occurence of three we can do it by just 
+
+FINDING THE FIRST_INDEX AND LAST _INDEX WHERE THE NUMBER IS PRESENT LIKE FOR 3:
+IT IS PERESNT ON FIRST_INDEX=2
+LAST _INDEX IS=5;
+
+SO ITS OCCURENCE IS =(LAST_INDEX - FIRST_INDEX) + 1;
+WHICH IS (5-2)+1=4;
